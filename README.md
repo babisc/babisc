@@ -2,11 +2,23 @@
 
 
 
-- 👋 Hi, I’m @babisc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Code
+
+## Vanilla
+
+``python
+print("hello world!")
+``
+
+## Flavored V1
+
+<div style="background-color: rgb(50, 50, 50);">
+
+``python
+print("Yo!")
+``
+
+</div>
 
 <!---
 babisc/babisc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
