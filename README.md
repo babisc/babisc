@@ -4,19 +4,16 @@
 
 # Code
 
-## Vanilla
+## Java Developer
 
-``python
-print("hello world!")
-``
+<span style="color:blue">some *blue* text</span>.
 
-## Flavored V1
+
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+
+🔥NEW🔥.
 
 <div style="background-color: rgb(50, 50, 50);">
-
-``python
-print("Yo!")
-``
 
 </div>
 
